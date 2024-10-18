@@ -23,7 +23,7 @@
 		"test": "xo && node test.js"
 	},
 	"engines": {
-		"node": ">=v14.16.1"
+		"node": ">=v18.20.1"
 	},
 	"private": false,
 	"repository": {
@@ -45,10 +45,10 @@
 		"package.json"
 	],
 	"dependencies": {
-		"axios": "^0.20.0"
+		"axios": "^1.7.7"
 	},
 	"devDependencies": {
-		"xo": "^0.39.1"
+		"xo": "^0.42.0"
 	},
 	"xo": {
 		"rules": {
